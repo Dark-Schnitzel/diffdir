@@ -1,9 +1,9 @@
 # diffdir
-Shell Script for comparing 2 folders
+Shell Script for comparing 2 folders. 
 
-Tested on BSD.
+Tested on BSD only at the moment. 
 
-Command Line Options:
+# Command Line Options:
     -s, --stats           Show Results/Stats at the End of the Run
     -c, --checksum        Compare files via checksum (files only)
     --diff                Show diff output. If Checksum and diff are used both, only the stats for diff will be shown (different checksum = diff in Content)
