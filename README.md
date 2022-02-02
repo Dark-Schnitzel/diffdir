@@ -13,7 +13,7 @@ Usage: diffdir.sh folder1 folder2 ${options}
     --acls                Compare ACLs
     --missing             Missing Files
     --extattr             Compare extended Attributes
-    -l, --link            Compare Link Targets
+    -l, --link            Compare Link Targets via readlink
     -o, --owner           Compare Owner permissions
     -m, --mode            Compare Filemodes
     -t, --time            Compare Timestamps
