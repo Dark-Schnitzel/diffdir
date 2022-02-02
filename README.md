@@ -3,6 +3,8 @@ Shell Script for comparing 2 folders.
 
 Tested on BSD only at the moment. 
 
+Usage: diffdir.sh folder1 folder2 ${options}
+
 # Command Line Options:
     -s, --stats           Show Results/Stats at the End of the Run
     -c, --checksum        Compare files via checksum (files only)
