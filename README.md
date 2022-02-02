@@ -1,5 +1,6 @@
 # diffdir
 Shell Script for comparing 2 folders. 
+Supports Posix/NFSv4 ACL and Extended Attribute Comparison.
 
 Tested on BSD only at the moment. 
 
